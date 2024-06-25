@@ -1,0 +1,26 @@
+[project]
+name = "physics_summer_school"
+version = "0.1.0"
+description = "Physics Summer School utilities."
+readme = "README.md"
+requires-python = ">=3.9"
+license = {file = "LICENSE.txt"}
+authors = [
+  {name = "Alexander Richards", email = "a.richards@imperial.ac.uk"}
+]
+maintainers = [
+  {name = "Alexander Richards", email = "a.richards@imperial.ac.uk"}
+]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Programming Language :: Python"
+]
+
+dependencies = [
+  "numpy",
+  "scipy",
+  "matplotlib",
+  "pandas",
+  "seaborn",
+  "ipysheet"
+]
