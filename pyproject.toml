@@ -18,9 +18,5 @@ classifiers = [
 
 dependencies = [
   "numpy",
-  "scipy",
-  "matplotlib",
-  "pandas",
-  "seaborn",
   "ipysheet"
 ]
